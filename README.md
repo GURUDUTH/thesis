@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://via.placeholder.com/800x200/4682B4/FFFFFF?text=Pre-Analysis+Agent" alt="Pre-Analysis Agent Banner">
+  <img src="https://raw.githubusercontent.com/user-attachments/assets/main/data_analysis_banner.png" alt="Pre-Analysis Agent Banner">
 </p>
 
 # Pre-Analysis Agent
@@ -129,4 +129,4 @@ Generate comprehensive PDF reports containing:
 
 ## Authors
 
-[Your name/organization]
+Guruduth Rao H
