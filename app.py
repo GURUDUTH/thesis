@@ -7,7 +7,7 @@ from langchain.schema import HumanMessage, AIMessage
 from data_processor import DataProcessor
 from agent import DataScienceAgent
 
-st.set_page_config(page_title="Data Science Assistant", layout="wide")
+st.set_page_config(page_title="Pre-Analysis Agent", layout="wide")
 
 # Initialize session state variables
 if "messages" not in st.session_state:
@@ -143,7 +143,7 @@ def main():
                 st.experimental_rerun()
     
     # Main chat interface
-    st.title("Data Science Analysis Assistant")
+    st.title("Pre-Analysis Agent")
     
     # Display API key warning if not provided
     if not st.session_state.cohere_api_key:
